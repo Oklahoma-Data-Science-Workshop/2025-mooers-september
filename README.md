@@ -136,16 +136,6 @@ The presentation demonstrates Git integration with Overleaf for collaborative La
 - **GitHub:** https://github.com/
 - **Git Repository Statistics:** https://gitcharts.com
 
-## Oklahoma Data Science Workshop GitHub Organization
-
-This presentation is part of the Oklahoma Data Science Workshop (DSW) series. The DSW provides a platform for scientists to discuss computational tools and share knowledge.
-
-**What is discussed in the workshop?**
-- Cutting-edge tools and algorithms
-- Unpublished results (with appropriate disclaimers)
-- Personal health information must be de-identified
-- Student participation information must be anonymized
 
 
-
-For questions about Git, GitHub, or contributing to the DSW organization, contact the workshop organizers or refer to the training resources listed above.
+For questions about contributing to the ODSW organization, contact the workshop organizers or refer to the training resources listed above.
