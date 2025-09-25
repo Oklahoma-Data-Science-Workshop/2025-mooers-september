@@ -145,7 +145,7 @@ The presentation demonstrates Git integration with Overleaf for collaborative La
 - **Git Official Documentation:** https://git-scm.com/
 - **GitHub:** https://github.com/
 - **Git Repository Statistics:** https://gitcharts.com
-
+- **Codeberg--the nonprofit alternative:** https://codeberg.org/
 
 
 For questions about contributing to the ODSW organization, contact the workshop organizers or refer to the training resources listed above.
