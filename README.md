@@ -6,7 +6,7 @@
 **Institution:** Laboratory of Biomolecular Structure and Function, Department of Biochemistry & Physiology, College of Medicine, University of Oklahoma Health Campus, Oklahoma City  
 **Event:** Oklahoma Data Science Workshop  
 **Date:** September 19, 2025
-**Video:** [Link](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ffc3adc5c6c149ebb4eac3564ac469731d?sortBy=relevance)
+[**Video:**](https://mediasite.ou.edu/Mediasite/Channel/odsw/watch/ffc3adc5c6c149ebb4eac3564ac469731d?sortBy=relevance)
 
 ## Overview
 
