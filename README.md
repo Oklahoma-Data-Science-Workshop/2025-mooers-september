@@ -11,7 +11,15 @@
 
 ## Overview
 
-This presentation introduces Git version control and GitHub hosting for researchers, scientists, and programmers. It covers fundamental concepts, practical applications, and demonstrates real-world workflows for collaborative coding and writing projects.
+This presentation introduces Git version control and GitHub hosting for researchers, scientists, and programmers. 
+It covers fundamental concepts, practical applications, and demonstrates real-world workflows for collaborative coding and writing projects.
+The program Git is used to back up computer programs and text-based documents.
+It also supports the tracking of changes and the synching of files in collaborative work.
+It is associated with GitHub, which provides access to online repositories.
+These repositories can be private or public; you can have both kinds for free as an academic.
+Some features of Git and GitHub are confusing to new users.
+I demystify them by presenting my simple approach to utilizing Git and GitHub in my everyday work.
+
 
 ## Objectives
 
